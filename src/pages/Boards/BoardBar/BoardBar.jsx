@@ -85,7 +85,7 @@ function BoardBar({ board }) {
           Invite
         </Button>
         <AvatarGroup
-          max={3}
+          max={2}
           sx={{
             gap: '10px',
             '& .MuiAvatar-root': {
@@ -102,13 +102,13 @@ function BoardBar({ board }) {
           <Tooltip title="truongnhudev">
             <Avatar
               alt="truongnhudev"
-              src="https://scontent.fsgn5-9.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_ohc=qovvqGMyZjYAX8lfqdb&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfARf1HNib237YtGR4Q2-dmqKDHNFKyq7yYV-pW2jIPB6Q&oe=64CDBA38"
+              src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_ohc=5O4n-ddWtMEAX-LUJG7&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAw1cJnOCF69ZnyUIDm5hBiNkhgtaaC3GnlQdEolrXo4w&oe=6506A2F8"
             />
           </Tooltip>
           <Tooltip title="truongnhudev">
             <Avatar
               alt="truongnhudev"
-              src="https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-1/349077170_935687067667293_6548047626387418912_n.jpg?stp=dst-jpg_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=2fc63d&_nc_ohc=35qfwZzNqgcAX8AcDQE&_nc_ht=scontent.fsgn5-3.fna&oh=00_AfAZ4aswLzBdMeYRo_Hzq3CHeagUYrKCT7FETX5tjixAUw&oe=64AD7FDC"
+              src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_ohc=5O4n-ddWtMEAX-LUJG7&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAw1cJnOCF69ZnyUIDm5hBiNkhgtaaC3GnlQdEolrXo4w&oe=6506A2F8"
             />
           </Tooltip>
           <Tooltip title="truongnhudev">
