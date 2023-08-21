@@ -29,7 +29,7 @@ export const mockData = {
             title: 'Title of card 01',
             description: 'Markdown Syntax (sẽ ở khóa nâng cao nhé)',
             cover:
-              'https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.6435-9/89300659_227586115064165_5314278020205248512_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=XmQIP-66T5AAX-IRYy4&_nc_ht=scontent.fsgn5-15.fna&oh=00_AfDFoqEV7h11xCiQ8186kecc-7ej4cZS9C1eL4dy8TeKyw&oe=64D069A9',
+              'https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.6435-9/89300659_227586115064165_5314278020205248512_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=IKDueJIvbYsAX8BCrVZ&_nc_ht=scontent.fsgn2-6.fna&oh=00_AfCbXElbTQl33jJ1bN8kw4XdeP4321ipA1HxA96ILdEaog&oe=65067729',
             memberIds: ['test-user-id-01'],
             comments: ['test comment 01', 'test comment 02'],
             attachments: [
@@ -115,7 +115,7 @@ export const mockData = {
           {
             _id: 'card-id-08',
             boardId: 'board-id-01',
-            columnId: 'column-id-01',
+            columnId: 'column-id-02',
             title: 'Title of card 08',
             description: null,
             cover: null,
@@ -126,7 +126,7 @@ export const mockData = {
           {
             _id: 'card-id-09',
             boardId: 'board-id-01',
-            columnId: 'column-id-01',
+            columnId: 'column-id-02',
             title: 'Title of card 09',
             description: null,
             cover: null,
@@ -137,7 +137,7 @@ export const mockData = {
           {
             _id: 'card-id-10',
             boardId: 'board-id-01',
-            columnId: 'column-id-01',
+            columnId: 'column-id-02',
             title: 'Title of card 10',
             description: null,
             cover: null,
@@ -156,7 +156,7 @@ export const mockData = {
           {
             _id: 'card-id-11',
             boardId: 'board-id-01',
-            columnId: 'column-id-01',
+            columnId: 'column-id-03',
             title: 'Title of card 11',
             description: null,
             cover: null,
@@ -167,7 +167,7 @@ export const mockData = {
           {
             _id: 'card-id-12',
             boardId: 'board-id-01',
-            columnId: 'column-id-01',
+            columnId: 'column-id-03',
             title: 'Title of card 12',
             description: null,
             cover: null,
@@ -178,7 +178,7 @@ export const mockData = {
           {
             _id: 'card-id-13',
             boardId: 'board-id-01',
-            columnId: 'column-id-01',
+            columnId: 'column-id-03',
             title: 'Title of card 13',
             description: null,
             cover: null,
